@@ -83,4 +83,4 @@ If you did a lot of hyperparameter tuning, the performance will usually be sligh
 
 * There is one csv file for data and other two is jupyter nootebook and python file.
 * You can run this code one of this file by downloading or copy it in any plateform which support python.
-* You can not see the boxplot in github because it does not support plotly library but you can see it by pasting the link of my GitHub notebook into http://nbviewer.jupyter.org/.*
+* You can not see the boxplot in github because it does not support plotly library but you can see it by pasting the link of my GitHub notebook into http://nbviewer.jupyter.org/.*.
